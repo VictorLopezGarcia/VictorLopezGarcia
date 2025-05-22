@@ -3,8 +3,8 @@
 <h1 align="center">Víctor López García</h1>
 
 <p align="center">
-  <b>🚀 Resiliente y Constante<br>
-  🚀 Resilient and Persistent</b>
+  <b>🚀 Resiliente y Constante 🚀<br>
+   Resilient and Persistent</b>
 </p>
 
 ---
